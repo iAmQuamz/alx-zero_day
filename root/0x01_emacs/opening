@@ -1,13 +1,1 @@
-[Got]
-0
-
-(2 chars long)
-
-[Expected]
-1
-
-(2 chars long)
-
-
-clear
-:wq
+“C-x C-f”
